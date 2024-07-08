@@ -1,0 +1,105 @@
+fs.js:114
+    throw err;
+    ^
+
+Error: ENOENT: no such file or directory, open '/path/to/your/private.key'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:343:35)
+    at Object.<anonymous> (/home/dannpyyd/chatapp/app.js:10:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+fs.js:114
+    throw err;
+    ^
+
+Error: ENOENT: no such file or directory, open '/path/to/your/private.key'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:343:35)
+    at Object.<anonymous> (/home/dannpyyd/chatapp/app.js:10:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+fs.js:114
+    throw err;
+    ^
+
+Error: ENOENT: no such file or directory, open '/path/to/your/private.key'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:343:35)
+    at Object.<anonymous> (/home/dannpyyd/chatapp/app.js:10:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+fs.js:114
+    throw err;
+    ^
+
+Error: ENOENT: no such file or directory, open '/path/to/your/private.key'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:343:35)
+    at Object.<anonymous> (/home/dannpyyd/chatapp/app.js:10:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+fs.js:114
+    throw err;
+    ^
+
+Error: ENOENT: no such file or directory, open '/path/to/your/private.key'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:343:35)
+    at Object.<anonymous> (/home/dannpyyd/chatapp/app.js:10:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+fs.js:114
+    throw err;
+    ^
+
+Error: ENOENT: no such file or directory, open '/path/to/your/private.key'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:343:35)
+    at Object.<anonymous> (/home/dannpyyd/chatapp/app.js:9:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+fs.js:114
+    throw err;
+    ^
+
+Error: ENOENT: no such file or directory, open '/path/to/your/private.key'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:343:35)
+    at Object.<anonymous> (/home/dannpyyd/chatapp/app.js:9:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
